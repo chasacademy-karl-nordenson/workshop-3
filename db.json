@@ -1,0 +1,6 @@
+{
+    "movies": [
+      { "id": 1, "title": "Scanners", "description": "Bra rulle" },
+      { "id": 2, "title": "The Thing", "description": "Också bra rulle" }
+    ]
+  }
